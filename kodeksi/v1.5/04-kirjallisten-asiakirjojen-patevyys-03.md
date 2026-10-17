@@ -1,0 +1,7 @@
+3. Oikeudelliset oletukset ja täytäntöönpanokelpoisuus
+
+Kun asiakirja on asianmukaisesti laadittu, allekirjoitettu ja tarvittaessa notaroitu tai todistettu, se saa oikeudellisen oletuksen pätevyydestään. Tämä oletus on keskeinen oikeudenkäynneissä, sillä sen perusteella asiakirjaa voidaan käyttää todisteena osapuolten aikomuksista ja sopimuksista. Oikeudessa pätevästi laadittu ja allekirjoitettu asiakirja saa yleensä oikeussuojaa, ellei voida osoittaa vilppiä, pakottamista, kohtuutonta vaikutusta tai muuta seikkaa, joka tekisi asiakirjasta mitättömän.
+
+Täytäntöönpanokelpoisuus: Kirjallisen ja oikeudellisesti pätevän asiakirjan ensisijainen tarkoitus on luoda oikeudellisesti täytäntöönpanokelpoisia oikeuksia ja velvoitteita. Esimerkiksi sopimuksessa allekirjoitettu asiakirja muodostaa sitovan sopimuksen, jonka osapuolet ovat oikeudellisesti velvollisia täyttämään. Mikäli toinen osapuoli rikkoo sopimusta, toinen voi hakea oikeudellista hyvitystä oikeudenkäynnin, välimiesmenettelyn tai muun riidanratkaisukeinon kautta.
+
+Todistearvo: Oikeudellisissa kiistoissa kirjallinen ja allekirjoitettu asiakirja toimii prima facie -todisteena siinä esitetyistä seikoista. Tämä tarkoittaa, että asiakirjan katsotaan olevan tosi, ellei muuta näytetä. Oikeudet antavat tällaisille asiakirjoille merkittävää painoarvoa niiden muodollisen luonteen ja usein mukana olevan aitoustodistuksen vuoksi, kuten allekirjoituksen tai notaarin vahvistuksen.

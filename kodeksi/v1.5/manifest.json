@@ -1,0 +1,106 @@
+{
+  "source": "Daniel_Aspelin_Kodeksi_v1.5.md",
+  "source_sha256": "8ba5a810c2fba77f769ba62cf1457c5f9cbec2f98f6d8e1ef23e09923c0a043c",
+  "extraction": "Exact line-preserving slices from original document; no substantive rewriting",
+  "subjects": [
+    {
+      "name": "00-otsikko-ja-luottamuksellisuus",
+      "start_line": 1,
+      "end_line": 26,
+      "files": [
+        "00-otsikko-ja-luottamuksellisuus.md"
+      ]
+    },
+    {
+      "name": "01-alkuteksti",
+      "start_line": 27,
+      "end_line": 40,
+      "files": [
+        "01-alkuteksti.md"
+      ]
+    },
+    {
+      "name": "02-ylityksen-kasite",
+      "start_line": 41,
+      "end_line": 94,
+      "files": [
+        "02-ylityksen-kasite-johdanto.md",
+        "02-ylityksen-kasite-01.md",
+        "02-ylityksen-kasite-02.md",
+        "02-ylityksen-kasite-03.md",
+        "02-ylityksen-kasite-04.md",
+        "02-ylityksen-kasite-05.md"
+      ]
+    },
+    {
+      "name": "03-oikeudellisen-patevyyden-rakentaminen",
+      "start_line": 95,
+      "end_line": 242,
+      "files": [
+        "03-oikeudellisen-patevyyden-rakentaminen-johdanto.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-01.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-02.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-03.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-04.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-05.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-06.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-07.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-08.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-09.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-10.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-11.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-12.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-13.md",
+        "03-oikeudellisen-patevyyden-rakentaminen-14.md"
+      ]
+    },
+    {
+      "name": "04-kirjallisten-asiakirjojen-patevyys",
+      "start_line": 243,
+      "end_line": 290,
+      "files": [
+        "04-kirjallisten-asiakirjojen-patevyys-johdanto.md",
+        "04-kirjallisten-asiakirjojen-patevyys-01.md",
+        "04-kirjallisten-asiakirjojen-patevyys-02.md",
+        "04-kirjallisten-asiakirjojen-patevyys-03.md",
+        "04-kirjallisten-asiakirjojen-patevyys-04.md",
+        "04-kirjallisten-asiakirjojen-patevyys-05.md"
+      ]
+    },
+    {
+      "name": "05-valmistelevat-ja-ennakoivat-toimet",
+      "start_line": 291,
+      "end_line": 324,
+      "files": [
+        "05-valmistelevat-ja-ennakoivat-toimet.md"
+      ]
+    },
+    {
+      "name": "06-perusteltu-toimijuus-ja-oikeutus",
+      "start_line": 325,
+      "end_line": 338,
+      "files": [
+        "06-perusteltu-toimijuus-ja-oikeutus.md"
+      ]
+    },
+    {
+      "name": "07-vahvistava-julkilausuma",
+      "start_line": 339,
+      "end_line": 372,
+      "files": [
+        "07-vahvistava-julkilausuma-johdanto.md",
+        "07-vahvistava-julkilausuma-01.md",
+        "07-vahvistava-julkilausuma-02.md",
+        "07-vahvistava-julkilausuma-03.md"
+      ]
+    },
+    {
+      "name": "08-geneerinen-toimintamalli",
+      "start_line": 373,
+      "end_line": 390,
+      "files": [
+        "08-geneerinen-toimintamalli.md"
+      ]
+    }
+  ]
+}
