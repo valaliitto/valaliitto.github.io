@@ -23,7 +23,7 @@
   section.appendChild(heading);
   const intro = document.createElement("p");
   intro.className = "intro";
-  intro.textContent = "Asiakirjan aihealueet ja numeroidut ala-aiheet. Alkuperäinen suomenkielinen sisältö on säilytetty. Teksti ei ole viranomaisen vahvistama oikeudellinen lausunto.";
+  intro.textContent = "Avaa aihealue ja sen ala-aihe lukeaksesi koko tekstin. Asiakirjan aihealueet ja numeroidut ala-aiheet. Alkuperäinen suomenkielinen sisältö on säilytetty. Teksti ei ole viranomaisen vahvistama oikeudellinen lausunto.";
   section.appendChild(intro);
   function renderText(target, text) {
     const blocks = text.split(/\n\s*\n/);
@@ -70,7 +70,7 @@
   const main = document.querySelector("main");
   if (main) {
     const firstSection = main.querySelector("section");
-    if (firstSection) main.insertBefore(section, firstSection);
+    if (main.firstElementChild) main.insertBefore(section, main.firstElementChild);
     else main.appendChild(section);
   }
   const nav = document.querySelector("nav");
