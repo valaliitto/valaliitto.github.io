@@ -19,11 +19,11 @@
   section.id = "kodeksi";
   section.className = "kodeksi-browser";
   const heading = document.createElement("h2");
-  heading.textContent = "Kodeksi v1.5";
+  heading.textContent = "Aihealueet";
   section.appendChild(heading);
   const intro = document.createElement("p");
   intro.className = "intro";
-  intro.textContent = "Avaa aihealue ja sen ala-aihe lukeaksesi koko tekstin. Asiakirjan aihealueet ja numeroidut ala-aiheet. Alkuperäinen suomenkielinen sisältö on säilytetty. Teksti ei ole viranomaisen vahvistama oikeudellinen lausunto.";
+  intro.textContent = "Aihealueet ja numeroidut ala-aiheet. Valitse aihe lukeaksesi sen sisällön.";
   section.appendChild(intro);
   function renderText(target, text) {
     const blocks = text.split(/\n\s*\n/);
@@ -65,7 +65,7 @@
   const link = document.createElement("a");
   link.className = "source-link";
   link.href = "Daniel_Aspelin_Kodeksi_v1.5.md";
-  link.textContent = "Alkuperäinen asiakirja (Markdown)";
+  link.textContent = "Alkuperäinen lähdeasiakirja (Markdown)";
   section.appendChild(link);
   const main = document.querySelector("main");
   if (main) {
@@ -77,7 +77,7 @@
   if (nav) {
     const a = document.createElement("a");
     a.href = "#kodeksi";
-    a.textContent = "Kodeksi";
+    a.textContent = "Aihealueet";
     nav.appendChild(a);
   }
 })();
