@@ -1,6 +1,6 @@
-# Kodeksi v1.5 — aihehakemisto
+# Aihealueet — aihehakemisto
 
-Alkuperäinen asiakirja: [Daniel Aspelin — Kodeksi v1.5](../../Daniel_Aspelin_Kodeksi_v1.5.md).
+Alkuperäinen asiakirja: [Aihealueet](../../aihealueet.md).
 
 Tämä on alkuperäisen tekstin rakenteellinen jako. Sisältöä ei ole oikeudellisesti vahvistettu eikä muutettu.
 

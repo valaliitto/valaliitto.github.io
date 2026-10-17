@@ -1,4 +1,4 @@
-# Daniel Aspelin — Kodeksi v1.5
+# Aihealueet
 
 
 Diplomaattisen ja Siviiliaseman Yhteispätevyys
