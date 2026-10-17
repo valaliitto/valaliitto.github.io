@@ -1,6 +1,5 @@
 # Daniel Aspelin — Kodeksi v1.5
 
-![Daniel Aspelin Kodeksi -logo](Daniel_Aspelin_Kodeksi_logo.png)
 
 Diplomaattisen ja Siviiliaseman Yhteispätevyys
 
